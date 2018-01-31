@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
   // Do after the document fully loaded
+  // 素材资源加载完成后执行的操作
 });
 
 
@@ -22,6 +23,7 @@ var splashScreenLogo = document.querySelector('#splashScreenLogo');
 
 
 // Play Delay Page
+// 延时界面
 var pagePlayDelay = document.querySelector('#pagePlayDelay');
 // --
 var palyDelayCont = document.querySelector('#palyDelayCont');
